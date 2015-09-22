@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+
+#score{
+	position:absolute;
+	margin-top: 10px;
+	margin-left: 01px 
+}
